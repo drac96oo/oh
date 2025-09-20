@@ -46,5 +46,5 @@ pcall(function()
 end)
 
 -- Load the FFA script
-loadstring(game:HttpGet("https://raw.githubusercontent.com/drac96oo/ffa/refs/heads/main/ffa", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kherbyy/aaaa/refs/heads/main/aaa", true))()
 ]])()
